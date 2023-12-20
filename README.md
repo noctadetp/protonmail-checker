@@ -22,4 +22,4 @@ This project has the following dependencies:
 Contributions are not currently accepted for this project as it is a single-file project. However, if you have suggestions or improvements, please feel free to open an issue to discuss them.
 
 ## Contact
-If you have any questions or inquiries, please contact [your contact information].
+If you have any questions or inquiries, please contact discord: chuispasnocta.
